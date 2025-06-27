@@ -1,0 +1,13 @@
+{
+    "name": "trabajo_caps",
+    "version": "1.0.0",
+    "description": "Proyecto Node.js básico con servidor Express",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
